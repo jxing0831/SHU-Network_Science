@@ -1,6 +1,6 @@
 ## Discrete-Time Models for Complex System
 
-This is our group presentation for the book of the 📕"*[Introduction to the Modeling and Analysis of Complex Systems](https://bingweb.binghamton.edu/~sayama/textbook/)*" in the class of 『**[Complex System](http://mooc1.elearning.shu.edu.cn/mycourse/studentcourse?courseId=223577062&clazzid=52923225&enc=25d91eab6be45a64645ee4bca0bd3e31)**』taught by [Ruiqi Wang](http://zhangroup.aporc.org/RuiqiWang).**
+This is our group presentation for the book of the 📕"*[Introduction to the Modeling and Analysis of Complex Systems](https://bingweb.binghamton.edu/~sayama/textbook/)*" in the class of 『**[Complex System](http://mooc1.elearning.shu.edu.cn/mycourse/studentcourse?courseId=223577062&clazzid=52923225&enc=25d91eab6be45a64645ee4bca0bd3e31)**』taught by [Ruiqi Wang](http://zhangroup.aporc.org/RuiqiWang).
 
 ---
 
