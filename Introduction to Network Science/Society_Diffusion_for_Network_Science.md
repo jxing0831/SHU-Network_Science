@@ -5,7 +5,10 @@ This is our group presentation for the paper of the 📃"*[Collective patterns o
 ---
 
 - beamer[@jxing0831](https://github.com/jxing0831)
+  > Powered by TeXstudio
+
 - code[@wxuwvu](https://github.com/wxuwvu)
+  > Powered by MATLAB
   
  > *Thank the author@[Lorenzo Zino](https://github.com/lzino90) for his [open source code](https://github.com/lzino90/diffusion/tree/v1.0).*
         
