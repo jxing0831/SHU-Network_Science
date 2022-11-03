@@ -4,3 +4,5 @@ This is our group presentation for the paper of the "Collective patterns of diff
 
 - beamer[@jxing0831](https://github.com/jxing0831)
 - code[@wxuwvu](https://github.com/wxuwvu)
+   > Thank the author@[Lorenzo Zino](https://github.com/lzino90) for his open source code.
+        https://github.com/lzino90/diffusion/tree/v1.0
