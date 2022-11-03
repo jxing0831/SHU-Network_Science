@@ -1,4 +1,0 @@
-\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{A Game Theoretical Model Incorporating Two Behavioral Mechanisms}{13}{0}{2}
-\beamer@sectionintoc {3}{Conclusion}{18}{0}{3}
-\beamer@sectionintoc {4}{Reference \& Data \& Code}{21}{0}{4}
