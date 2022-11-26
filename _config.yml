@@ -5,3 +5,5 @@ google_analytics:
 homurl: https://jxing0831.github.io/SHU-Network_Science/
 
 theme: jekyll-theme-cayman
+
+exclude: [README.md]
