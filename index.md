@@ -35,15 +35,22 @@ _**Shanghai University**_
 
 - 1.Society Diffusion for Network Science
 
-This is our group presentation for the paper of the 📃"*[Collective patterns of diffusion are shaped by Individual inertia and trend-seeking](https://doi.org/10.1038/s41467-021-25953-1)*" 
+This is our group presentation for the paper of the 📃 "*[Collective patterns of diffusion are shaped by Individual inertia and trend-seeking](https://doi.org/10.1038/s41467-021-25953-1)*" 
 
  
  Member：[@Jie Xing](https://github.com/jxing0831)
   ,  [@Shiwei Wang](https://github.com/wxuwvu) ,  @Sicheng Zhang
 
-- <[beamer](https://jxing0831.github.io/files/Collective_patterns_of_social_diffusion_are_shaped_by_individual_inertia_and_trend-seeking.pdf)>  | <[report](https://jxing0831.github.io/files/Final_report_for_NetSci.pdf)> | <[Github](https://github.com/jxing0831/SHU-Network_Science/tree/main/Introduction%20to%20Network%20Science/code4Fig_2)>
+  - <[beamer](https://jxing0831.github.io/files/Collective_patterns_of_social_diffusion_are_shaped_by_individual_inertia_and_trend-seeking.pdf)>  | <[report](https://jxing0831.github.io/files/Final_report_for_NetSci.pdf)> | <[Github](https://github.com/jxing0831/SHU-Network_Science/tree/main/Introduction%20to%20Network%20Science/code4Fig_2)>
     
  > *Thank the author@[Lorenzo Zino](https://github.com/lzino90) for his [open source code](https://github.com/lzino90/diffusion/tree/v1.0).*
         
+---
 
+- 2.Community Detection With DL
 
+This is our group presentation for the paper of the 📃 "_[A Comprehensive Survey on Community Detection With Deep Learning](https://doi.org/10.1109/TNNLS.2021.3137396)_ "
+
+Member：[@Kui Cao](https://github.com/caokuii) , @Jinlin Fan ,  @Wenjie Fu
+
+  - <[PPT](https://github.com/jxing0831/SHU-Network_Science/blob/main/Introduction%20to%20Network%20Science/PPT/%E7%AC%AC%E5%9B%9B%E7%BB%84-%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%A4%84%E7%90%86%E7%A4%BE%E5%8C%BA%E6%A3%80%E6%B5%8B.pdf)>  | <[report](https://github.com/jxing0831/SHU-Network_Science/blob/main/Introduction%20to%20Network%20Science/Report/%E5%9F%BA%E4%BA%8E%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E7%A4%BE%E5%8C%BA%E6%A3%80%E6%B5%8B%E7%BB%BC%E5%90%88%E7%A0%94%E7%A9%B6.pdf)> 
